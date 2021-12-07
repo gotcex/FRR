@@ -7,7 +7,6 @@ FRR will include four layers:
 3. Product service layer: provide business service building blocks, including: digital assets, visa services, shared ledger, shared economy, etc.
 4. Application service layer: establish a convenient and easy-to-use toolbox, and the structured chain, which includes: compliance supervision sub-chain, trading and processing chain, clearing operator chain, revenue and expenditure registration and deposit chain, product asset chain, customer and bank account management chain, etc.
 # Application scenarios
-OTC (over-the-counter) trading
 Structured chain simplifies business implementation of OTC (over-the-counter) trading applications.
 1. The users of structured chain includes trading services providers, investors and asset managers. Investors can choose any digital asset in the structured chain that meets their risk preference for investment. The trading and management of digital assets are jointly provided by the asset manager and the trading services provider.
 2. Core financial services such as trading, bookkeeping, custody, clearing, valuation, performance analysis and tracking based on blockchain ledgers;
