@@ -1,7 +1,7 @@
-# FRR
-FRR will based on Structured Block Chain Platform to build the applications to provide services on FinTech, RegTech, RiskTech and so on. 
+# TechOrk
+TechOrk will based on Structured Block Chain Platform to build the applications to provide services on FinTech, RegTech, RiskTech and so on. 
 # FRR Architecture
-FRR will include four layers:
+TechOrk will include four layers:
 1. Foundation layer: basic technology services, including information security technology, artificial intelligence, big data, cloud technology, etc.
 2. Technology layer: covering basic technology services, user management, smart contract, operation management, etc.
 3. Product service layer: provide business service building blocks, including: digital assets, visa services, shared ledger, shared economy, etc.
